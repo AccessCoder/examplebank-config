@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to ExampleBank accounts related local API´s"
+  message: "Welcome to ExampleBank accounts related docker API´s"
   contactDetails:
     name: "John Doe - Senior Dev"
     email: "john.doe@examplebank.com"
