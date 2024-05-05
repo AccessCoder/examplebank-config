@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to ExampleBank accounts related prod API´s"
   contactDetails:
-    name: "Max Muster - Product Owner"
-    email: "max.muster@examplebank.com"
+    name: "Max Mustermann - Product Owner"
+    email: "max.mustermann@examplebank.com"
   onCallSupport:
     - (555) 098-7654
     - (555) 098-3210
